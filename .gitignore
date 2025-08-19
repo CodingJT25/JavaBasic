@@ -1,0 +1,8 @@
+# IDE-Ordner
+.vscode/
+
+# Build-Ordner
+bin/
+
+# Bibliotheken (falls lokal eingebunden)
+lib/
